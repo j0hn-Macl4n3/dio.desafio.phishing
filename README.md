@@ -1,5 +1,6 @@
 # Repositório do Desafio de Projeto - Criação de um Phishing com o Kali Linux
 Este projeto se faz em base objetiva a ser educativo e conscientizador, demonstrando:
+
 ▸ a facilidade em gerar links falsos de phishing;
 ▸ sobre as práticas de phishing.
 
@@ -44,9 +45,9 @@ Primeiramente, instale a ferramenta, seguindo o passo a passo em: <a href='https
 <br>
 
 ## Resultados do SeToolKit:
-<img src="https://raw.githubusercontent.com/j0hn-Macl4n3/dio.desafio.phishing/main/assets/img/SeToolkit.png" width='50%'>
+<img src="https://raw.githubusercontent.com/j0hn-Macl4n3/dio.desafio.phishing/main/assets/img/setoolkit.png" width='50%'>
 <br>
-<img src="https://raw.githubusercontent.com/j0hn-Macl4n3/dio.desafio.phishing/main/assets/img/Facebook.png" width='50%'>
+<img src="https://raw.githubusercontent.com/j0hn-Macl4n3/dio.desafio.phishing/main/assets/img/facebook.png" width='50%'>
 <br>
-<img src="https://raw.githubusercontent.com/j0hn-Macl4n3/dio.desafio.phishing/main/assets/img/TerminalSeToolkit.png" width='50%'>
+<img src="https://raw.githubusercontent.com/j0hn-Macl4n3/dio.desafio.phishing/main/assets/img/terminalsetoolkit.png" width='50%'>
 <br>
