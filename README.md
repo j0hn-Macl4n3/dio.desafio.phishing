@@ -40,7 +40,7 @@ Primeiramente, instale a ferramenta, seguindo o passo a passo em: <a href='https
 9. Ao ser apresentado um diálogo sobre o endereço de IP a ser usado, clique em ```Enter```, para que a ferramenta detecte o IP local da máquina e o marque como default
 10. Digite o link https://www.facebook.com no terminal e pressione ```Enter```
 11. Para acessar a página clonada e realizar o teste, utilize no navegador de sua preferência o IP que foi setado na etapa ```9```
-12. Após a tentativa de conectar-se a página, um log será carregado no terminal do SeToolKit. Basta buscar pela credencial testada.
+12. Após a tentativa de conectar-se a página, um log será carregado no terminal do SEToolkit. Basta buscar pela credencial testada.
 <br>
 ## Resultados do SEToolkit:  
 <br>
