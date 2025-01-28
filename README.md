@@ -42,7 +42,7 @@ Primeiramente, instale a ferramenta, seguindo o passo a passo em: <a href='https
 11. Para acessar a página clonada e realizar o teste, utilize no navegador de sua preferência o IP que foi setado na etapa ```9```
 12. Após a tentativa de conectar-se a página, um log será carregado no terminal do SeToolKit. Basta buscar pela credencial testada.
 <br>
-## Resultados do SEToolkit:
+## Resultados do SEToolkit:  
 <img src="https://raw.githubusercontent.com/j0hn-Macl4n3/dio.desafio.phishing/main/assets/img/setoolkit.png" width='50%'>
 <br>
 <img src="https://raw.githubusercontent.com/j0hn-Macl4n3/dio.desafio.phishing/main/assets/img/facebook.png" width='50%'>
