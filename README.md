@@ -1,5 +1,5 @@
 # Repositório do Desafio de Projeto - Criação de um Phishing com o Kali Linux
-Este projeto se faz em base objetiva a ser educativo e conscientizador, demonstrando:
+Este projeto se faz em base objetiva a ser educativo e conscientizar, demonstrando:
 
 ▸ a facilidade em gerar links falsos de phishing;  
 ▸ sobre as práticas de phishing.
